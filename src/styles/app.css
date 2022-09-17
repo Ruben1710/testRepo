@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+<<<<<<< HEAD
 
 .post {
     display: flex;
@@ -25,4 +26,19 @@
 .createForm {
     width: 800px;
     margin: 0 auto;
+=======
+.App {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.post {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border: 2px solid black;
+    width: 800px;
+    margin: 10px;
+>>>>>>> 1a023099d0e010d3b4226c7e528766bf0a48e597
 }

@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "todo",
+=======
+  "name": "projectgroup3",
+>>>>>>> 1a023099d0e010d3b4226c7e528766bf0a48e597
   "version": "0.1.0",
   "private": true,
   "dependencies": {
